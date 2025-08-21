@@ -1,0 +1,51 @@
+LAPORAN AKHIR KOLOABORASI PROYEK GITHUB – kolaborasi-kelompok-greng
+LAPORAN AKHIR KOLOABORASI PROYEK GITHUB – KELOMPOK GRENG
+
+1. Identitas Tim
+
+---
+
+| Nama Anggota    | Peran / Tugas                 |
+| --------------- | ----------------------------- |
+| Zidan Albani    | Membuat homepage, commit awal |
+| Muhammad Harits | Menambahkan fitur kontak      |
+| Irgi Harnoyo    | Dokumentasi Git & PR          |
+
+2. Tujuan Kolaborasi
+
+* Belajar manajemen branch di Git
+* Kolaborasi tim di GitHub
+* Membuat portofolio web sederhana
+
+3. Ringkasan Kegiatan
+   Sprint 1 – Inisialisasi Proyek
+
+* Membuat repository
+* Commit awal homepage
+
+Sprint 2 – Penambahan Fitur
+
+* Branch fitur kontak
+* Merge ke main setelah review
+
+Sprint 3 – Dokumentasi dan Review
+
+* Membuat git\_summary.txt
+* Pull request dan merge conflict resolution
+
+4. Tantangan dan Solusi
+
+* Konflik merge → diselesaikan dengan koordinasi & git merge
+* Clone repo gagal di Windows → ganti folder tujuan
+
+5. Hasil Akhir
+
+* Repository lengkap
+* Website portofolio siap berjalan
+* Dokumentasi commit tersedia
+
+6. Kesimpulan
+
+* GitHub efektif untuk kolaborasi tim
+* Semua anggota memahami branching, commit, merge, PR
+* Dokumentasi mempermudah monitoring proyek
